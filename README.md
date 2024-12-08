@@ -42,7 +42,7 @@ This project focuses on the development of a Python-based graphical user interfa
 ## Installation Guide
 1. Clone this repository:
    ```bash
-   git clone https://github.com/SathwikMallavarapu/Histogram-Matching-with-Freehand-Drawing-Tool
+   git clone [https://github.com/SathwikMallavarapu/Histogram-Matching-with-Freehand-Drawing-Tool](https://github.com/SathwikMallavarapu/Histogram-Matching-with-Freehand-Drawing-Tool.git)
    cd histogram-matching-tool
 
 ## Install dependencies:
